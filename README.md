@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Khaled Eissa</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/khaledeissa122/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -9,15 +13,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Khaled Eissa<br><br>- 🔭 I’m working as Front End & software Developer<br>- 📚 I'm currently learning php<br>- ⚡ In my free time I learning about cars</p>
+<p align="left">- 🔭 I’m working as Front End & software Developer<br>- 📚 I'm currently learning php<br>- ⚡ In my free time I learning about cars<br>- 📫 How to reach me Email me at: khaledeissa012@gmail.com<br>- 🖥️ Learn more about me on my website https://khaledeissa.netlify.app/</p>
 
 ###
 
@@ -69,15 +69,15 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExand1bjRndmJ1Zm0zYzJla3o2a3YzMnd5a2hxenFpMTNyNzBjNzdxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mrZO6PGO2pJC/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledeissa122&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=khaledeissa122&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExand1bjRndmJ1Zm0zYzJla3o2a3YzMnd5a2hxenFpMTNyNzBjNzdxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mrZO6PGO2pJC/giphy.gif"  />
 
 ###
