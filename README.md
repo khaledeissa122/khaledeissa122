@@ -47,8 +47,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/khaledeissa122/khaledeissa122/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExand1bjRndmJ1Zm0zYzJla3o2a3YzMnd5a2hxenFpMTNyNzBjNzdxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mrZO6PGO2pJC/giphy.gif"  />
+</div>
 
 ###
