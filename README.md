@@ -63,7 +63,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=khaledeissa122&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -76,8 +76,8 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExand1bjRndmJ1Zm0zYzJla3o2a3YzMnd5a2hxenFpMTNyNzBjNzdxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mrZO6PGO2pJC/giphy.gif"  />
+<div align="left">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExand1bjRndmJ1Zm0zYzJla3o2a3YzMnd5a2hxenFpMTNyNzBjNzdxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mrZO6PGO2pJC/giphy.gif"  />
+</div>
 
 ###
